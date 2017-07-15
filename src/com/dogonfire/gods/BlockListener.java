@@ -38,7 +38,7 @@ import org.bukkit.event.player.PlayerPickupItemEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.scheduler.BukkitScheduler;
-
+import org.bukkit.event.EventException
 public class BlockListener implements Listener
 {
 	private Gods plugin;
